@@ -18,10 +18,11 @@ This script does the following:
 - Updates the packet and traffic data immediately in the terminal.
 
 ### Running the Script:
-To run the script, ensure that you have scapy, pandas, and matplotlib installed. You can install them using pip:
+To run the script, ensure that you have scapy, pandas, and matplotlib installed. You can - ----- install them using pip:
 
-pip install scapy pandas matplotlib
-
-Run the script using Python:
-
+```bash
+pip install scapy pandas 
+```
+- Run the script using Python:
+```bash
 python network_sniffer.py
