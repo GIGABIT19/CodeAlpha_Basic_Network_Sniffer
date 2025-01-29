@@ -18,7 +18,7 @@ This script does the following:
 - Updates the packet and traffic data immediately in the terminal.
 
 ### Running the Script:
-To run the script, ensure that you have scapy, pandas, and matplotlib installed. You can - ----- install them using pip:
+To run the script, ensure that you have scapy, and pandas installed. You can - ----- install them using pip:
 
 ```bash
 pip install scapy pandas 
